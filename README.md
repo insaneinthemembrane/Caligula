@@ -9,9 +9,7 @@ Optimization Enabled: 0
 ContractName: Caligula
 
 
------
 
-Tokens: 100,000,000
 
 
 -----
@@ -24,6 +22,17 @@ Contract
 Transaction
 
 [0xb9c0f3270c335cd2f85dcf0f193baedd740faaaace42ca9abd57ddc3ed11a083](https://etherscan.io/tx/0xb9c0f3270c335cd2f85dcf0f193baedd740faaaace42ca9abd57ddc3ed11a083)
+
+
+-----
+
+Token Name: Caligula
+
+Token Symbol: C
+
+Decimals: 18
+
+Token supply: 100,000,000
 
 
 
